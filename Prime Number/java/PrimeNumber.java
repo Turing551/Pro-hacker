@@ -26,3 +26,6 @@ class SieveOfEratosthenes {
         g.sieveOfEratosthenes(n); 
     } 
 } 
+
+
+// Time complexity : O(n*log(log(n)))
