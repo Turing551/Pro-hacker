@@ -23,3 +23,6 @@ int main() {
     SieveOfEratosthenes(n); 
     return 0; 
 } 
+
+
+// Time complexity : O(n*log(log(n)))
